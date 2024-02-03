@@ -13,7 +13,7 @@ This is an informative page to review in detail the services offered by this web
 
 ## :camera_flash: Project Image
 
-![My Project]()
+![My Project](https://github.com/Adrian97G/Info-Page/blob/main/img/Info%20page.png)
 
 ## :link: Link to see the project in action
 
